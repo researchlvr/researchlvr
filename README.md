@@ -1,7 +1,7 @@
 ![counter](https://komarev.com/ghpvc/?username=researchlvr&label=🔍&color=372C35&labelColor=000000&style=flat)
 
 <p align="center"> 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc1bGtkNGtnYWpmYzZxbGgyc3ozNWEzc2N5bml2OTl1azFhemR4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xIwV9pTYNAukBO2qW8/giphy.gif" width="640"/>
+<img src="https://64.media.tumblr.com/56671c3aa16b8ea3d670e351211a8638/e258783ad9c4e569-07/s640x960/47ddb78a57eb2cd3efe0209a9a9a1b7e221d0c5f.gifv" width="680"/>
 </p>
 
 <p align="center"> 

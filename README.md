@@ -1,7 +1,7 @@
 ![counter](https://komarev.com/ghpvc/?username=researchlvr&label=🔍&color=372C35&labelColor=000000&style=flat)
 
 <p align="center"> 
-<img src="assets/rodgerbanner.gifv" width="680"/>
+<img src="rodgerbanner.gifv" width="680"/>
 </p>
 
 <p align="center"> 
